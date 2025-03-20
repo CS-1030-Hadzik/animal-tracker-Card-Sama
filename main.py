@@ -1,3 +1,4 @@
+#Starting Point
 
 if __name__ == "__main__":
     # TODO: Create an instance of the Animal class
